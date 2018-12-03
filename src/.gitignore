@@ -1,0 +1,6 @@
+.gititnore
+.git/
+.vs/
+bin/
+obj/
+
